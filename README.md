@@ -6,3 +6,4 @@ eu estou programando em...
 - haxe(recentimente)
 - java(mais ou menos)
 - lua(mais ou menos)
+- html(bem legal)
