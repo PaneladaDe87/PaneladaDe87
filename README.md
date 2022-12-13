@@ -7,5 +7,6 @@ eu estou programando em...
 - java(mais ou menos)
 - lua(mais ou menos)
 - html(bem legal)
+
 caso queira entrar em contato comigo, esse é meu numero:
 - +55 (53) 98404-0305
